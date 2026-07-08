@@ -1,0 +1,453 @@
+[
+  {
+    "id": "FLC01",
+    "name": "Luxe Feel II, Crisp",
+    "item number": 120,
+    "category": "carpet",
+    "manufacturer": "Carpet Shaw",
+    "preview": "FLC01_preview.webp",
+    "texture": "FLC01_texture.webp",
+    "resolution": 840,
+    "tileability": 97,
+    "source": "https://andersontuftex.com/en-us/carpet/luxe-feel-ii-silver-lining-12-ft-100-anso-high-performance-nylon/zz322-00123",
+    "created": "2026-07-07T19:04:04.384Z",
+    "tags": [
+      "carpet"
+    ],
+    "pricesf": 10.87,
+    "specs": {
+      "pileThicknessIn": 0.8,
+      "sizeFt": 12,
+      "padPricePerSY": 420,
+      "totalArea900SF": 9783,
+      "totalCarpetPlusPad": 10203
+    }
+  },
+  {
+    "id": "FLEHF01",
+    "name": "MCCARRAN - NORTHCUTT 9.45X86.6 - 5/8-4MM",
+    "item number": "VTWBRAMLETT9.5X86-5/8-4MM",
+    "category": "engineered-hardwood-flooring",
+    "manufacturer": "McCarran NORTHCUTT",
+    "preview": "FLEHF01_preview.webp",
+    "texture": "FLEHF01_texture.webp",
+    "resolution": 2048,
+    "tileability": 98,
+    "source": "https://www.msisurfaces.com/w-luxury-genuine-hardwood/mccarran/northcutt/",
+    "created": "2026-07-07T19:04:34.954Z",
+    "tags": [
+      "engineered-hardwood-flooring"
+    ],
+    "pricesf": 6.88,
+    "specs": {
+      "sizeFt": "9.5x86"
+    }
+  },
+  {
+    "id": "FLHRC01748",
+    "name": "SMITHCLIFFS MALTON 7.72X47.87",
+    "item number": "VTLMALTON7X48-10MM",
+    "category": "waterproof-hybrid-rigid-core",
+    "manufacturer": "Smithcliffs Malton",
+    "preview": "FLHRC01748_preview.webp",
+    "texture": "FLHRC01748_texture.webp",
+    "resolution": 2048,
+    "tileability": 93,
+    "source": "https://www.msisurfaces.com/waterproof-hybrid-rigid-core/smithcliffs/malton/",
+    "created": "2026-07-07T19:04:41.331Z",
+    "tags": [
+      "waterproof-hybrid-rigid-core"
+    ],
+    "pricesf": 2.05,
+    "specs": {
+      "sizeFt": "7x48"
+    }
+  },
+  {
+    "id": "FLC03",
+    "name": "Indulgent, Whisper",
+    "item number": 123,
+    "category": "carpet",
+    "manufacturer": "Carpet Shaw",
+    "preview": "FLC03_preview.webp",
+    "texture": "FLC03_texture.webp",
+    "resolution": 840,
+    "tileability": 94,
+    "source": "https://andersontuftex.com/en-us/carpet/indulgent-whisper-12-ft-100-anso-high-performance-nylon/zz331-00123",
+    "created": "2026-07-07T19:07:04.422Z",
+    "tags": [
+      "carpet"
+    ],
+    "pricesf": 9.65,
+    "specs": {
+      "pileThicknessIn": 0.5,
+      "sizeFt": 12,
+      "padPricePerSY": 420,
+      "totalArea900SF": 8685,
+      "totalCarpetPlusPad": 9105
+    }
+  },
+  {
+    "id": "FLC02",
+    "name": "Enduring Charm, Summer rain",
+    "item number": 542,
+    "category": "carpet",
+    "manufacturer": "Carpet Shaw",
+    "preview": "FLC02_preview.webp",
+    "texture": "FLC02_texture.webp",
+    "resolution": 840,
+    "tileability": 97,
+    "source": "https://andersontuftex.com/en-us/carpet/enduring-charm-summer-rain-12-ft-100-anso-high-performance-nylon/zz268-00542",
+    "created": "2026-07-07T19:07:32.346Z",
+    "tags": [
+      "carpet"
+    ],
+    "pricesf": 7.43,
+    "specs": {
+      "pileThicknessIn": 0.64,
+      "sizeFt": 12,
+      "padPricePerSY": 420,
+      "totalArea900SF": 6687,
+      "totalCarpetPlusPad": 7107
+    }
+  },
+  {
+    "id": "FLC04",
+    "name": "Joyful Spirit, warm hug",
+    "item number": 501,
+    "category": "carpet",
+    "manufacturer": "Carpet Shaw",
+    "preview": "FLC04_preview.webp",
+    "texture": "FLC04_texture.webp",
+    "resolution": 840,
+    "tileability": 94,
+    "source": "https://shawfloors.com/en-us/carpet/joyful-spirit-warm-hug-12-ft-100-anso-high-performance-solution-dyed-pet/5e931-00501",
+    "created": "2026-07-07T19:07:47.363Z",
+    "tags": [
+      "carpet"
+    ],
+    "pricesf": 5.32,
+    "specs": {
+      "pileThicknessIn": 0.34,
+      "sizeFt": 12,
+      "padPricePerSY": 420,
+      "totalArea900SF": 4788,
+      "totalCarpetPlusPad": 5208
+    }
+  },
+  {
+    "id": "FLC05",
+    "name": "Secret Journey, Four winds",
+    "item number": 520,
+    "category": "carpet",
+    "manufacturer": "Carpet Shaw",
+    "preview": "FLC05_preview.webp",
+    "texture": "FLC05_texture.webp",
+    "resolution": 822,
+    "tileability": 95,
+    "source": "https://shawfloors.com/en-us/carpet/secret-journey-four-winds-12-ft-100-anso-high-performance-solution-dyed-pet/5e875-00520",
+    "created": "2026-07-07T19:08:10.003Z",
+    "tags": [
+      "carpet"
+    ],
+    "pricesf": 5.87,
+    "specs": {
+      "pileThicknessIn": 0.45,
+      "sizeFt": 12,
+      "padPricePerSY": 420,
+      "totalArea900SF": 5283,
+      "totalCarpetPlusPad": 5703
+    }
+  },
+  {
+    "id": "FLC07",
+    "name": "Yes You Can II 12'",
+    "item number": "",
+    "category": "carpet",
+    "manufacturer": "Carpet Shaw",
+    "preview": "FLC07_preview.webp",
+    "texture": "FLC07_texture.webp",
+    "resolution": 840,
+    "tileability": 92,
+    "source": "https://shawfloors.com/en-us/carpet/yes-you-can-ii-12-frozen-12-ft-100-anso-high-performance-pet/5e569-00107",
+    "created": "2026-07-07T19:08:18.045Z",
+    "tags": [
+      "carpet"
+    ],
+    "pricesf": 6.43,
+    "specs": {
+      "pileThicknessIn": 0.82,
+      "sizeFt": 12,
+      "padPricePerSY": 420,
+      "totalArea900SF": 5787,
+      "totalCarpetPlusPad": 6207
+    }
+  },
+  {
+    "id": "FLC06",
+    "name": "Yes You Can III 12",
+    "item number": 107,
+    "category": "carpet",
+    "manufacturer": "Carpet Shaw",
+    "preview": "FLC06_preview.webp",
+    "texture": "FLC06_texture.webp",
+    "resolution": 840,
+    "tileability": 92,
+    "source": "https://shawfloors.com/en-us/carpet/yes-you-can-iii-12-frozen-12-ft-100-anso-high-performance-pet/5e570-00107",
+    "created": "2026-07-07T19:08:23.957Z",
+    "tags": [
+      "carpet"
+    ],
+    "pricesf": 7.1,
+    "specs": {
+      "pileThicknessIn": 1.01,
+      "sizeFt": 12,
+      "padPricePerSY": 420,
+      "totalArea900SF": 6390,
+      "totalCarpetPlusPad": 6810
+    }
+  },
+  {
+    "id": "FLEHF02",
+    "name": "MCCARRAN - BRAMLETT 9.45X86.61",
+    "item number": "VTWMONOAK9.5X86-5/8-4MM",
+    "category": "engineered-hardwood-flooring",
+    "manufacturer": "McCarran BRAMLETT",
+    "preview": "FLEHF02_preview.webp",
+    "texture": "FLEHF02_texture.webp",
+    "resolution": 2048,
+    "tileability": 98,
+    "source": "https://www.msisurfaces.com/w-luxury-genuine-hardwood/mccarran/bramlett/",
+    "created": "2026-07-07T19:08:55.371Z",
+    "tags": [
+      "engineered-hardwood-flooring"
+    ],
+    "pricesf": 6.88,
+    "specs": {
+      "sizeFt": "9.5x86"
+    }
+  },
+  {
+    "id": "FLEHF03",
+    "name": "MCCARRAN - MONTEVIDEO OAK 9.45X86.61",
+    "item number": "VTWBOURLAND9.5X86-5/8-4MM",
+    "category": "engineered-hardwood-flooring",
+    "manufacturer": "McCarran Montevideo Oak",
+    "preview": "FLEHF03_preview.webp",
+    "texture": "FLEHF03_texture.webp",
+    "resolution": 2048,
+    "tileability": 98,
+    "source": "https://www.msisurfaces.com/w-luxury-genuine-hardwood/mccarran/montevideo-oak/",
+    "created": "2026-07-07T19:09:00.292Z",
+    "tags": [
+      "engineered-hardwood-flooring"
+    ],
+    "pricesf": 6.88,
+    "specs": {
+      "sizeFt": "9.5x86"
+    }
+  },
+  {
+    "id": "FLEHF04",
+    "name": "MCCARRAN - BOURLAND 9.45X86.61",
+    "item number": "VTWSCABUF9.5X86-5/8-4MM",
+    "category": "engineered-hardwood-flooring",
+    "manufacturer": "McCarran BOURLAND",
+    "preview": "FLEHF04_preview.webp",
+    "texture": "FLEHF04_texture.webp",
+    "resolution": 1892,
+    "tileability": 78,
+    "source": "https://www.msisurfaces.com/w-luxury-genuine-hardwood/mccarran/bourland/",
+    "created": "2026-07-07T19:09:31.242Z",
+    "tags": [
+      "engineered-hardwood-flooring"
+    ],
+    "pricesf": 6.88,
+    "specs": {
+      "sizeFt": "9.5x86"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "FLEHF05",
+    "name": "MCCARRAN - SCARBOROUGH BUFF 9.45X86.61",
+    "item number": "VTWWAYLAND9.5X86-5/8-4MM",
+    "category": "engineered-hardwood-flooring",
+    "manufacturer": "McCarran Scarborough Buff",
+    "preview": "FLEHF05_preview.webp",
+    "texture": "FLEHF05_texture.webp",
+    "resolution": 2048,
+    "tileability": 97,
+    "source": "https://www.msisurfaces.com/w-luxury-genuine-hardwood/mccarran/scarborough-buff/",
+    "created": "2026-07-07T19:09:38.771Z",
+    "tags": [
+      "engineered-hardwood-flooring"
+    ],
+    "pricesf": 6.88,
+    "specs": {
+      "sizeFt": "9.5x86"
+    }
+  },
+  {
+    "id": "FLEHF06",
+    "name": "MCCARRAN - WAYLAND 9.45X86.61",
+    "item number": "VTWATWOOD9.5X86-5/8-4MM",
+    "category": "engineered-hardwood-flooring",
+    "manufacturer": "McCarran WAYLAND",
+    "preview": "FLEHF06_preview.webp",
+    "texture": "FLEHF06_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/w-luxury-genuine-hardwood/mccarran/wayland/",
+    "created": "2026-07-07T19:10:10.248Z",
+    "tags": [
+      "engineered-hardwood-flooring"
+    ],
+    "pricesf": 6.88,
+    "specs": {
+      "sizeFt": "9.5x86"
+    }
+  },
+  {
+    "id": "FLEHF07",
+    "name": "MCCARRAN - ATWOOD 9.45X86.61",
+    "item number": "",
+    "category": "engineered-hardwood-flooring",
+    "manufacturer": "McCarran Atwood",
+    "preview": "FLEHF07_preview.webp",
+    "texture": "FLEHF07_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/w-luxury-genuine-hardwood/mccarran/atwood/",
+    "created": "2026-07-07T19:10:17.593Z",
+    "tags": [
+      "engineered-hardwood-flooring"
+    ],
+    "pricesf": 6.88,
+    "specs": {
+      "sizeFt": "9.5x86"
+    }
+  },
+  {
+    "id": "FLHRC02748",
+    "name": "SMITHCLIFFS AVERY ASH 7.72X47.87",
+    "item number": "VTLAVEASH7X48-10MM",
+    "category": "waterproof-hybrid-rigid-core",
+    "manufacturer": "Smithcliffs Avery Ash",
+    "preview": "FLHRC02748_preview.webp",
+    "texture": "FLHRC02748_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/waterproof-hybrid-rigid-core/smithcliffs/avery-ash/",
+    "created": "2026-07-07T19:10:50.899Z",
+    "tags": [
+      "waterproof-hybrid-rigid-core"
+    ],
+    "pricesf": 2.05,
+    "specs": {
+      "sizeFt": "7x48"
+    }
+  },
+  {
+    "id": "FLHRC03748",
+    "name": "SMITHCLIFFS HILLSDALE 7.72X47.87",
+    "item number": "VTLHILLSD7X48-10MM",
+    "category": "waterproof-hybrid-rigid-core",
+    "manufacturer": "Smithcliffs Hillsdale",
+    "preview": "FLHRC03748_preview.webp",
+    "texture": "FLHRC03748_texture.webp",
+    "resolution": 2048,
+    "tileability": 95,
+    "source": "https://www.msisurfaces.com/waterproof-hybrid-rigid-core/smithcliffs/hillsdale/",
+    "created": "2026-07-07T19:10:55.363Z",
+    "tags": [
+      "waterproof-hybrid-rigid-core"
+    ],
+    "pricesf": 2.05,
+    "specs": {
+      "sizeFt": "7x48"
+    }
+  },
+  {
+    "id": "FLHRC04748",
+    "name": "SMITHCLIFFS BROCKTON 7.72X47.87",
+    "item number": "VTLBROCKT7X48-10MM",
+    "category": "waterproof-hybrid-rigid-core",
+    "manufacturer": "Smithcliffs Brockton",
+    "preview": "FLHRC04748_preview.webp",
+    "texture": "FLHRC04748_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/waterproof-hybrid-rigid-core/smithcliffs/brockton/",
+    "created": "2026-07-07T19:11:28.356Z",
+    "tags": [
+      "waterproof-hybrid-rigid-core"
+    ],
+    "pricesf": 2.05,
+    "specs": {
+      "sizeFt": "7x48"
+    }
+  },
+  {
+    "id": "FLHRC05987",
+    "name": "SHORECLIFFS WALLINGFORD BLONDE 8.94X87",
+    "item number": "VTLWALBLO9X87-12MM",
+    "category": "waterproof-hybrid-rigid-core",
+    "manufacturer": "Shorecliffs Wallingford Blonde",
+    "preview": "FLHRC05987_preview.webp",
+    "texture": "FLHRC05987_texture.webp",
+    "resolution": 2048,
+    "tileability": 97,
+    "source": "https://www.msisurfaces.com/waterproof-hybrid-rigid-core/shorecliffs/wallingford-blonde/",
+    "created": "2026-07-07T19:11:34.567Z",
+    "tags": [
+      "waterproof-hybrid-rigid-core"
+    ],
+    "pricesf": 2.64,
+    "specs": {
+      "sizeFt": "9x87"
+    }
+  },
+  {
+    "id": "FLHRC06887",
+    "name": "SHORECLIFFS ROGHAN 8.94X87",
+    "item number": "VTLROGHAN9X87-12MM",
+    "category": "waterproof-hybrid-rigid-core",
+    "manufacturer": "Shorecliffs Roghan",
+    "preview": "FLHRC06887_preview.webp",
+    "texture": "FLHRC06887_texture.webp",
+    "resolution": 2048,
+    "tileability": 97,
+    "source": "https://www.msisurfaces.com/waterproof-hybrid-rigid-core/shorecliffs/roghan/",
+    "created": "2026-07-07T19:12:05.534Z",
+    "tags": [
+      "waterproof-hybrid-rigid-core"
+    ],
+    "pricesf": 2.64,
+    "specs": {
+      "sizeFt": "9x87"
+    }
+  },
+  {
+    "id": "FLHRC07750",
+    "name": "SMITHCLIFFS CLOUDLAND 7.55X50.59",
+    "item number": "VTLCLOLAN7X50-9.4MM",
+    "category": "waterproof-hybrid-rigid-core",
+    "manufacturer": "Smithcliffs Cloudland",
+    "preview": "FLHRC07750_preview.webp",
+    "texture": "FLHRC07750_texture.webp",
+    "resolution": 2048,
+    "tileability": 98,
+    "source": "https://www.msisurfaces.com/waterproof-hybrid-rigid-core/smithcliffs/cloudland/",
+    "created": "2026-07-07T19:12:12.040Z",
+    "tags": [
+      "waterproof-hybrid-rigid-core"
+    ],
+    "pricesf": 2.15,
+    "specs": {
+      "sizeFt": "7x50"
+    }
+  }
+]
