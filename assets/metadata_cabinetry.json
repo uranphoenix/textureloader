@@ -1,0 +1,202 @@
+[
+  {
+    "id": "E43",
+    "name": "Chromix Silver F638 ST10",
+    "item number": "",
+    "category": "cabinetry",
+    "manufacturer": "Chromix Silver F638 ST10",
+    "preview": "E43_preview.webp",
+    "texture": "E43_texture.webp",
+    "resolution": 630,
+    "tileability": 30,
+    "source": "https://docs.google.com/drawings/d/1l4-D0Gn6A5SOj9Y1-czJxzBSBBEs8MLlgruNyH6wW0o/edit",
+    "created": "2026-07-09T00:02:06.220Z",
+    "tags": [
+      "cabinetry"
+    ],
+    "pricesf": "",
+    "specs": {
+      "Texture": "Concrete, Egger Melamine",
+      "Finish": "Matt",
+      "Color": "Dark Grey"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "E8",
+    "name": "Natural Carini Walnut H3710 ST12",
+    "item number": "",
+    "category": "cabinetry",
+    "manufacturer": "Natural Carini Walnut H3710 ST12",
+    "preview": "E8_preview.webp",
+    "texture": "E8_texture.webp",
+    "resolution": 630,
+    "tileability": 26,
+    "source": "https://docs.google.com/drawings/d/1Tuavk4k2-sT51iCrPMtJISNHHoYy3rm1D8wb5OOpPcA/edit",
+    "created": "2026-07-08T23:59:45.184Z",
+    "tags": [
+      "cabinetry"
+    ],
+    "pricesf": "",
+    "specs": {
+      "Texture": "Wood Grain by Egger",
+      "Finish": "Matt",
+      "Color": "Dark Brown"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "E26",
+    "name": "Light Casella Oak ST40",
+    "item number": "",
+    "category": "cabinetry",
+    "manufacturer": "Light Casella Oak ST40",
+    "preview": "E26_preview.webp",
+    "texture": "E26_texture.webp",
+    "resolution": 630,
+    "tileability": 72,
+    "source": "https://docs.google.com/drawings/d/1k6GT6hK59w4Ger6O2iN6-Y44CIbXz0QFwGY7lc8hkN4/edit",
+    "created": "2026-07-09T00:00:20.227Z",
+    "tags": [
+      "cabinetry"
+    ],
+    "pricesf": "",
+    "specs": {
+      "Texture": "Wood Grain by Egger",
+      "Finish": "Matt",
+      "Color": "Light Brown"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "PM773",
+    "name": "Eucaliptus",
+    "item number": "",
+    "category": "cabinetry",
+    "manufacturer": "Eucaliptus",
+    "preview": "PM773_preview.webp",
+    "texture": "PM773_texture.webp",
+    "resolution": 630,
+    "tileability": 49,
+    "source": "https://docs.google.com/drawings/d/135DOyE90yxyXr11VpYEJymK8n2RgArKc9ASmI4eN_lI/edit",
+    "created": "2026-07-09T00:00:20.601Z",
+    "tags": [
+      "cabinetry"
+    ],
+    "pricesf": "",
+    "specs": {
+      "Texture": "Solid Matt",
+      "Finish": "Matt",
+      "Color": "Green"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "Z08",
+    "name": "Magnolia",
+    "item number": "",
+    "category": "cabinetry",
+    "manufacturer": "Magnolia",
+    "preview": "Z08_preview.webp",
+    "texture": "Z08_texture.webp",
+    "resolution": 630,
+    "tileability": 21,
+    "source": "https://docs.google.com/drawings/d/1X4CJqCo022A241MIZd7mv1S2yrAfk4uNtByeSVW2Yyw/edit",
+    "created": "2026-07-09T00:00:55.745Z",
+    "tags": [
+      "cabinetry"
+    ],
+    "pricesf": "",
+    "specs": {
+      "Texture": "Solid Matt",
+      "Finish": "Matt",
+      "Color": "Creme"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "Z59",
+    "name": "R.59 Azul Indigo",
+    "item number": "",
+    "category": "cabinetry",
+    "manufacturer": "R.59 Azul Indigo",
+    "preview": "Z59_preview.webp",
+    "texture": "Z59_texture.webp",
+    "resolution": 630,
+    "tileability": 56,
+    "source": "https://docs.google.com/drawings/d/1N3-LA2EsBnmWq_6ULwC-oJFRZ36mP66ZPFY9SVI7YYQ/edit",
+    "created": "2026-07-09T00:00:56.301Z",
+    "tags": [
+      "cabinetry"
+    ],
+    "pricesf": "",
+    "specs": {
+      "Texture": "Solid Matt",
+      "Finish": "Matt",
+      "Color": "Blue"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "ST10",
+    "name": "Natural Hamilton Oak H3303",
+    "item number": "",
+    "category": "cabinetry",
+    "manufacturer": "Natural Hamilton Oak H3303",
+    "preview": "ST10_preview.webp",
+    "texture": "ST10_texture.webp",
+    "resolution": 630,
+    "tileability": 28,
+    "source": "https://docs.google.com/drawings/d/1CkX-agfpbynN8PyjJXhBgMXehUhusOlPSz42b6_HSPM/edit",
+    "created": "2026-07-09T00:01:31.190Z",
+    "tags": [
+      "cabinetry"
+    ],
+    "pricesf": "",
+    "specs": {
+      "Texture": "Wood Grain by Egger",
+      "Finish": "Matt",
+      "Color": "Light Brown"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "R50",
+    "name": "Antracita Z11",
+    "item number": "",
+    "category": "cabinetry",
+    "manufacturer": "Antracita Z11",
+    "preview": "R50_preview.webp",
+    "texture": "R50_texture.webp",
+    "resolution": 630,
+    "tileability": 28,
+    "source": "https://docs.google.com/drawings/d/1tQPL7lDjL5rjA2N15uDMDZOx3cwfcWa-ZBAUfFtsgSU/edit",
+    "created": "2026-07-09T00:01:31.425Z",
+    "tags": [
+      "cabinetry"
+    ],
+    "pricesf": "",
+    "specs": {
+      "Texture": "Solid Matt",
+      "Finish": "Matt",
+      "Color": "Dark Grey"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  }
+]

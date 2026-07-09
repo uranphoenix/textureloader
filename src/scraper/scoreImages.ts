@@ -1,9 +1,29 @@
-import { KEYWORDS, SCORE_WEIGHTS } from "../config.js";
+import { KEYWORDS, SCORE_WEIGHTS, MIN_USABLE_RESOLUTION } from "../config.js";
 import type { ImageCandidate, ScoreBreakdown, ScoredImageCandidate } from "../types.js";
-import { filenameFromUrl } from "../utils/url.js";
+import { extensionFromUrl, filenameFromUrl } from "../utils/url.js";
 
 function anyKeywordIn(text: string, keywords: readonly string[]): string | null {
   return keywords.find((keyword) => text.includes(keyword)) ?? null;
+}
+
+/**
+ * Excludes candidates that can never be a usable texture regardless of score: vector icons/logos
+ * (always .svg in practice - nav icons, accessibility widgets, brand logos) and anything whose
+ * declared size is already known to be below the usable-resolution floor. Without this, tiny
+ * UI icons can tie on score with real product photos (neither hits the resolution/keyword
+ * bonuses) and win the top-K purely by appearing earlier in the DOM (e.g. header icons before
+ * the product gallery), starving out the real images entirely.
+ */
+function isEligible(candidate: ImageCandidate): boolean {
+  if (extensionFromUrl(candidate.url) === "svg") return false;
+  if (
+    candidate.declaredWidth !== undefined &&
+    candidate.declaredHeight !== undefined &&
+    Math.min(candidate.declaredWidth, candidate.declaredHeight) < MIN_USABLE_RESOLUTION
+  ) {
+    return false;
+  }
+  return true;
 }
 
 /**
@@ -23,6 +43,10 @@ export function scoreImage(candidate: ImageCandidate): ScoredImageCandidate {
   const maxDeclared = Math.max(candidate.declaredWidth ?? 0, candidate.declaredHeight ?? 0);
   if (maxDeclared > SCORE_WEIGHTS.resolutionThresholdPx) {
     breakdown.resolution = SCORE_WEIGHTS.resolutionBonus;
+  } else if (maxDeclared > 0) {
+    // A smaller continuous bonus below the big cliff, so e.g. an 805px product photo doesn't tie
+    // on score with a 60px UI icon just because neither crosses the 1500px threshold.
+    breakdown.declaredSize = Math.min(20, Math.floor(maxDeclared / 100));
   }
 
   if (candidate.declaredWidth && candidate.declaredHeight) {
@@ -58,5 +82,8 @@ export function scoreImage(candidate: ImageCandidate): ScoredImageCandidate {
 }
 
 export function scoreImages(candidates: ImageCandidate[]): ScoredImageCandidate[] {
-  return candidates.map(scoreImage).sort((a, b) => b.score - a.score);
+  return candidates
+    .filter(isEligible)
+    .map(scoreImage)
+    .sort((a, b) => b.score - a.score);
 }

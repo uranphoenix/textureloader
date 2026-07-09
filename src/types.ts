@@ -1,19 +1,14 @@
-export interface SourceRow {
-  Category: string;
-  "Ítem": string;
+/**
+ * Different source_*.json files use quite different column sets (flooring has "Pile thikness,
+ * inch"/"Item Number"; cabinetry has "Material"/"Texture"/"Finish"/"Color"; countertops has a
+ * flat "Price/per kitchen + bathrooms" instead of per-SF pricing; tiles reuses "Category" to mean
+ * a color group, not a material type). Only Code and Link are guaranteed present across all of
+ * them - everything else is looked up defensively where used.
+ */
+export type SourceRow = {
   Code: string;
-  "Size, FT": string | number;
-  "Description ": string;
-  "Price per SF": number | "";
   Link: string;
-  Thikness: string;
-  Picture: string;
-  "Item Number": string | number;
-  "Pile thikness, inch": number | "";
-  "Pad + (per SY)": number | "";
-  "10 SY = 900 SF": number | "";
-  "Total Carpet+pad": number | "";
-}
+} & Record<string, unknown>;
 
 export type ImageSourceKind =
   | "img"
@@ -81,6 +76,8 @@ export interface MaterialSpecs {
   padPricePerSY?: number;
   totalArea900SF?: number;
   totalCarpetPlusPad?: number;
+  /** Passthrough for any other source-file-specific field (Finish, Color, Texture, Country, per-box pricing, etc.) not already lifted to a named property above. */
+  [key: string]: string | number | undefined;
 }
 
 export interface MaterialMetadata {

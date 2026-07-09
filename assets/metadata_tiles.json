@@ -1,0 +1,812 @@
+[
+  {
+    "id": "TL012448M",
+    "name": "KAYA CALACATTA LUCCA 24X48 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL012448M_preview.webp",
+    "texture": "TL012448M_texture.webp",
+    "resolution": 805,
+    "tileability": 39,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/calacatta-lucca/",
+    "created": "2026-07-09T00:05:20.831Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 5.41,
+    "specs": {
+      "Size ": "24x48",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 43.25,
+      "SF/Piece": 8,
+      "SF/Box": 16,
+      "Each/Box": 2,
+      "Price/Box": 86.56,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL012424M",
+    "name": "KAYA CALACATTA LUCCA 24X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL012424M_preview.webp",
+    "texture": "TL012424M_texture.webp",
+    "resolution": 805,
+    "tileability": 39,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/calacatta-lucca/",
+    "created": "2026-07-09T00:05:20.838Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 4.78,
+    "specs": {
+      "Size ": "24x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 19.12,
+      "SF/Piece": 4,
+      "SF/Box": 16,
+      "Each/Box": 4,
+      "Price/Box": 76.48,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL021224M",
+    "name": "KAYA CALACATTA VENATO 12X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL021224M_preview.webp",
+    "texture": "TL021224M_texture.webp",
+    "resolution": 805,
+    "tileability": 40,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/calacatta-venato/",
+    "created": "2026-07-09T00:05:56.871Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 4.16,
+    "specs": {
+      "Size ": "12x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 8.32,
+      "SF/Piece": 2,
+      "SF/Box": 12,
+      "Each/Box": 6,
+      "Price/Box": 49.92,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL010303M",
+    "name": "KAYA CALACATTA LUCCA 3X3 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL010303M_preview.webp",
+    "texture": "TL010303M_texture.webp",
+    "resolution": 805,
+    "tileability": 39,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/calacatta-lucca/#mz-expanded-view-1532111427650",
+    "created": "2026-07-09T00:05:57.131Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 13.9,
+    "specs": {
+      "Size ": "3x3",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 13.76,
+      "SF/Piece": 0.99,
+      "SF/Box": 10.89,
+      "Each/Box": 11,
+      "Price/Box": 151.371,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL022424M",
+    "name": "KAYA CALACATTA VENATO 24X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL022424M_preview.webp",
+    "texture": "TL022424M_texture.webp",
+    "resolution": 805,
+    "tileability": 40,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/calacatta-venato/",
+    "created": "2026-07-09T00:06:32.513Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 4.78,
+    "specs": {
+      "Size ": "24x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 19.12,
+      "SF/Piece": 4,
+      "SF/Box": 16,
+      "Each/Box": 4,
+      "Price/Box": 76.48,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL020303M",
+    "name": "KAYA CALACATTA VENATO 3X3 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL020303M_preview.webp",
+    "texture": "TL020303M_texture.webp",
+    "resolution": 805,
+    "tileability": 40,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/calacatta-venato/",
+    "created": "2026-07-09T00:07:08.493Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 13.9,
+    "specs": {
+      "Size ": "3x3",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 13.76,
+      "SF/Piece": 0.99,
+      "SF/Box": 10.89,
+      "Each/Box": 11,
+      "Price/Box": 151.371,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL051224M",
+    "name": "Traktion CALYPSO GRAPHITE 12X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL051224M_preview.webp",
+    "texture": "TL051224M_texture.webp",
+    "resolution": 805,
+    "tileability": 38,
+    "source": "https://www.msisurfaces.com/porcelain-calypso/graphite/",
+    "created": "2026-07-09T00:09:06.034Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 3.31,
+    "specs": {
+      "Size ": "12x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 6.61,
+      "SF/Piece": 2,
+      "SF/Box": 14,
+      "Each/Box": 7,
+      "Price/Box": 46.34,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL052448M",
+    "name": "Traktion CALYPSO GRAPHITE 24X48 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL052448M_preview.webp",
+    "texture": "TL052448M_texture.webp",
+    "resolution": 805,
+    "tileability": 38,
+    "source": "https://www.msisurfaces.com/porcelain-calypso/graphite/",
+    "created": "2026-07-09T00:09:28.550Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 4.48,
+    "specs": {
+      "Size ": "24x48",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 35.8,
+      "SF/Piece": 8,
+      "SF/Box": 16,
+      "Each/Box": 2,
+      "Price/Box": 71.68,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL081224M",
+    "name": "EDEN BARDIGLIO 12X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL081224M_preview.webp",
+    "texture": "TL081224M_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/porcelain-eden/bardiglio/#more-prdInfo",
+    "created": "2026-07-09T00:11:15.831Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 2.55,
+    "specs": {
+      "Size ": "12x24",
+      "Thickness/INCH": 0.37,
+      "Price/Each": 5.1,
+      "SF/Piece": 2,
+      "SF/Box": 16,
+      "Each/Box": 8,
+      "Price/Box": 40.8,
+      "Country": "India"
+    }
+  },
+  {
+    "id": "TL082424M",
+    "name": "EDEN BARDIGLIO 24X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL082424M_preview.webp",
+    "texture": "TL082424M_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/porcelain-eden/bardiglio/#more-prdInfo",
+    "created": "2026-07-09T00:11:32.154Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 2.95,
+    "specs": {
+      "Size ": "24x24",
+      "Thickness/INCH": 0.37,
+      "Price/Each": 11.78,
+      "SF/Piece": 4,
+      "SF/Box": 16,
+      "Each/Box": 4,
+      "Price/Box": 47.2,
+      "Country": "India"
+    }
+  },
+  {
+    "id": "TL082448M",
+    "name": "EDEN BARDIGLIO 24X48 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL082448M_preview.webp",
+    "texture": "TL082448M_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/porcelain-eden/bardiglio/#more-prdInfo",
+    "created": "2026-07-09T00:11:52.738Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 3.84,
+    "specs": {
+      "Size ": "24x48",
+      "Thickness/INCH": 0.37,
+      "Price/Each": 30.68,
+      "SF/Piece": 8,
+      "SF/Box": 16,
+      "Each/Box": 2,
+      "Price/Box": 61.44,
+      "Country": "India"
+    }
+  },
+  {
+    "id": "TL083232M",
+    "name": "EDEN BARDIGLIO 32X32 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL083232M_preview.webp",
+    "texture": "TL083232M_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/porcelain-eden/bardiglio/#more-prdInfo",
+    "created": "2026-07-09T00:12:09.283Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 3.38,
+    "specs": {
+      "Size ": "32x32",
+      "Thickness/INCH": 0.37,
+      "Price/Each": 24.04,
+      "SF/Piece": 7.11,
+      "SF/Box": 21.33,
+      "Each/Box": 3,
+      "Price/Box": 72.0954,
+      "Country": "India"
+    }
+  },
+  {
+    "id": "TL080202M",
+    "name": "EDEN BARDIGLIO 2X2 HEX MATTE MOSAIC",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL080202M_preview.webp",
+    "texture": "TL080202M_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/porcelain-eden/bardiglio/#more-prdInfo",
+    "created": "2026-07-09T00:12:29.799Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 11.95,
+    "specs": {
+      "Size ": "2x2",
+      "Thickness/INCH": 0.37,
+      "Price/Each": 10.99,
+      "SF/Piece": 0.92,
+      "SF/Box": 7.36,
+      "Each/Box": 8,
+      "Price/Box": 87.952,
+      "Country": "India"
+    }
+  },
+  {
+    "id": "TL080303M",
+    "name": "EDEN BARDIGLIO 3X3 HEX MATTE MOSAIC",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL080303M_preview.webp",
+    "texture": "TL080303M_texture.webp",
+    "resolution": 2048,
+    "tileability": 96,
+    "source": "https://www.msisurfaces.com/porcelain-eden/bardiglio/#more-prdInfo",
+    "created": "2026-07-09T00:12:46.647Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 20.77,
+    "specs": {
+      "Size ": "3x3",
+      "Thickness/INCH": 0.37,
+      "Price/Each": 17.45,
+      "SF/Piece": 0.84,
+      "SF/Box": 6.72,
+      "Each/Box": 8,
+      "Price/Box": 139.5744,
+      "Country": "India"
+    }
+  },
+  {
+    "id": "TL032424M",
+    "name": "REGALLO CALACATTA ISLA 24X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL032424M_preview.webp",
+    "texture": "TL032424M_texture.webp",
+    "resolution": 805,
+    "tileability": 40,
+    "source": "https://www.msisurfaces.com/porcelain-regallo/calacatta-isla/",
+    "created": "2026-07-09T00:22:34.224Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 5.95,
+    "specs": {
+      "Size ": "24x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 23.08,
+      "SF/Piece": 3.876,
+      "SF/Box": 11.628,
+      "Each/Box": 3,
+      "Price/Box": 69.1866,
+      "Country": "Italy"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL031224M",
+    "name": "REGALLO CALACATTA ISLA 12X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL031224M_preview.webp",
+    "texture": "TL031224M_texture.webp",
+    "resolution": 805,
+    "tileability": 40,
+    "source": "https://www.msisurfaces.com/porcelain-regallo/calacatta-isla/",
+    "created": "2026-07-09T00:23:03.435Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 5.57,
+    "specs": {
+      "Size ": "12x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 10.78,
+      "SF/Piece": 1.937,
+      "SF/Box": 13.559,
+      "Each/Box": 7,
+      "Price/Box": 75.52363,
+      "Country": "Italy"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL032448M",
+    "name": "REGALLO CALACATTA ISLA 24X48 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL032448M_preview.webp",
+    "texture": "TL032448M_texture.webp",
+    "resolution": 805,
+    "tileability": 40,
+    "source": "https://www.msisurfaces.com/porcelain-regallo/calacatta-isla/",
+    "created": "2026-07-09T00:23:10.223Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 6.21,
+    "specs": {
+      "Size ": "24x48",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 48.15,
+      "SF/Piece": 7.75,
+      "SF/Box": 15.5,
+      "Each/Box": 2,
+      "Price/Box": 96.255,
+      "Country": "Italy"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL030202M",
+    "name": "REGALLO CALACATTA ISLA 2X2 MOSAIC",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL030202M_preview.webp",
+    "texture": "TL030202M_texture.webp",
+    "resolution": 805,
+    "tileability": 40,
+    "source": "https://www.msisurfaces.com/porcelain-regallo/calacatta-isla/",
+    "created": "2026-07-09T00:23:41.026Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 13.76,
+    "specs": {
+      "Size ": "2x2",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 13.76,
+      "SF/Piece": 1,
+      "SF/Box": 10,
+      "Each/Box": 10,
+      "Price/Box": 137.6,
+      "Country": "Italy"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL041224M",
+    "name": "REGALLO MARQUINA NOIR 12X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL041224M_preview.webp",
+    "texture": "TL041224M_texture.webp",
+    "resolution": 805,
+    "tileability": 95,
+    "source": "https://www.msisurfaces.com/porcelain-regallo/marquina-noir/",
+    "created": "2026-07-09T00:23:46.741Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 5.57,
+    "specs": {
+      "Size ": "12x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 10.78,
+      "SF/Piece": 1.937,
+      "SF/Box": 13.559,
+      "Each/Box": 7,
+      "Price/Box": 75.52363,
+      "Country": "Italy"
+    }
+  },
+  {
+    "id": "TL042448M",
+    "name": "REGALLO MARQUINA NOIR 24X48 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL042448M_preview.webp",
+    "texture": "TL042448M_texture.webp",
+    "resolution": 805,
+    "tileability": 95,
+    "source": "https://www.msisurfaces.com/porcelain-regallo/marquina-noir/",
+    "created": "2026-07-09T00:23:54.567Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 6.21,
+    "specs": {
+      "Size ": "24x48",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 48.15,
+      "SF/Piece": 7.75,
+      "SF/Box": 15.5,
+      "Each/Box": 2,
+      "Price/Box": 96.255,
+      "Country": "Italy"
+    }
+  },
+  {
+    "id": "TL042424M",
+    "name": "REGALLO MARQUINA NOIR 24X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL042424M_preview.webp",
+    "texture": "TL042424M_texture.webp",
+    "resolution": 805,
+    "tileability": 95,
+    "source": "https://www.msisurfaces.com/porcelain-regallo/marquina-noir/",
+    "created": "2026-07-09T00:24:21.568Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 5.95,
+    "specs": {
+      "Size ": "24x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 23.08,
+      "SF/Piece": 3.876,
+      "SF/Box": 11.628,
+      "Each/Box": 3,
+      "Price/Box": 69.1866,
+      "Country": "Italy"
+    }
+  },
+  {
+    "id": "TL040202M",
+    "name": "REGALLO MARQUINA NOIR 2X2 MOSAIC",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL040202M_preview.webp",
+    "texture": "TL040202M_texture.webp",
+    "resolution": 805,
+    "tileability": 95,
+    "source": "https://www.msisurfaces.com/porcelain-regallo/marquina-noir/",
+    "created": "2026-07-09T00:24:37.001Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 13.76,
+    "specs": {
+      "Size ": "2x2",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 13.76,
+      "SF/Piece": 1,
+      "SF/Box": 10,
+      "Each/Box": 10,
+      "Price/Box": 137.6,
+      "Country": "Italy"
+    }
+  },
+  {
+    "id": "TL061224M",
+    "name": "Traktion CALYPSO ASH 12X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL061224M_preview.webp",
+    "texture": "TL061224M_texture.webp",
+    "resolution": 805,
+    "tileability": 39,
+    "source": "https://www.msisurfaces.com/porcelain-calypso/ash/",
+    "created": "2026-07-09T00:24:58.159Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 3.31,
+    "specs": {
+      "Size ": "12x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 6.61,
+      "SF/Piece": 2,
+      "SF/Box": 14,
+      "Each/Box": 7,
+      "Price/Box": 46.34,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL062448M",
+    "name": "Traktion CALYPSO ASH 24X48 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL062448M_preview.webp",
+    "texture": "TL062448M_texture.webp",
+    "resolution": 805,
+    "tileability": 39,
+    "source": "https://www.msisurfaces.com/porcelain-calypso/ash/",
+    "created": "2026-07-09T00:25:15.436Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 4.48,
+    "specs": {
+      "Size ": "24x48",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 35.8,
+      "SF/Piece": 8,
+      "SF/Box": 16,
+      "Each/Box": 2,
+      "Price/Box": 71.68,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL071224M",
+    "name": "KAYA ONDA GRAY 12X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL071224M_preview.webp",
+    "texture": "TL071224M_texture.webp",
+    "resolution": 805,
+    "tileability": 87,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/onda-gray/",
+    "created": "2026-07-09T00:25:35.154Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 4.16,
+    "specs": {
+      "Size ": "12x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 8.32,
+      "SF/Piece": 2,
+      "SF/Box": 12,
+      "Each/Box": 6,
+      "Price/Box": 49.92,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL072424M",
+    "name": "KAYA ONDA GRAY 24X24 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL072424M_preview.webp",
+    "texture": "TL072424M_texture.webp",
+    "resolution": 805,
+    "tileability": 87,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/onda-gray/",
+    "created": "2026-07-09T00:25:52.890Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 4.78,
+    "specs": {
+      "Size ": "24x24",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 19.12,
+      "SF/Piece": 4,
+      "SF/Box": 16,
+      "Each/Box": 4,
+      "Price/Box": 76.48,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL072448M",
+    "name": "KAYA ONDA GRAY 24X48 MATTE",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL072448M_preview.webp",
+    "texture": "TL072448M_texture.webp",
+    "resolution": 805,
+    "tileability": 87,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/onda-gray/",
+    "created": "2026-07-09T00:26:13.588Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 5.41,
+    "specs": {
+      "Size ": "24x48",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 43.25,
+      "SF/Piece": 8,
+      "SF/Box": 16,
+      "Each/Box": 2,
+      "Price/Box": 86.56,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  },
+  {
+    "id": "TL070303M",
+    "name": "NKAYONDGRA3X3",
+    "item number": "",
+    "category": "tiles",
+    "manufacturer": "Tile",
+    "preview": "TL070303M_preview.webp",
+    "texture": "TL070303M_texture.webp",
+    "resolution": 805,
+    "tileability": 87,
+    "source": "https://www.msisurfaces.com/porcelain-kaya/onda-gray/",
+    "created": "2026-07-09T00:26:29.347Z",
+    "tags": [
+      "tiles"
+    ],
+    "pricesf": 13.9,
+    "specs": {
+      "Size ": "3x3",
+      "Thickness/INCH": 0.39,
+      "Price/Each": 13.76,
+      "SF/Piece": 0.99,
+      "SF/Box": 10.89,
+      "Each/Box": 11,
+      "Price/Box": 151.371,
+      "Country": "Spain"
+    },
+    "flags": [
+      "low-tileability"
+    ]
+  }
+]

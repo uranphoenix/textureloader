@@ -21,8 +21,17 @@ import {
 import type { AnalyzedCandidate, MaterialMetadata, SourceRow } from "./types.js";
 
 /** Runs the full scrape -> score -> download -> analyze -> seamless/optimize -> preview -> metadata pipeline for one source row. */
-export async function processRow(browser: Browser, row: SourceRow): Promise<MaterialMetadata> {
+export async function processRow(
+  browser: Browser,
+  row: SourceRow,
+  metadataPath: string,
+  categoryOverride?: string,
+): Promise<MaterialMetadata> {
   const id = row.Code;
+  const label =
+    (typeof row["Description "] === "string" && row["Description "]) ||
+    (typeof row["Material"] === "string" && row["Material"]) ||
+    id;
   logRow(id, `Scraping ${row.Link}`);
   const candidates = await scrapeImages(browser, row.Link);
   if (candidates.length === 0) throw new Error("No images found on page");
@@ -58,7 +67,7 @@ export async function processRow(browser: Browser, row: SourceRow): Promise<Mate
   if (!winner) throw new Error("unreachable: analyzed is non-empty");
 
   printAnalysisSummary({
-    label: `${id} - ${row["Description "]}`,
+    label: `${id} - ${label}`,
     width: winner.width,
     height: winner.height,
     analysis: winner.analysis,
@@ -90,9 +99,10 @@ export async function processRow(browser: Browser, row: SourceRow): Promise<Mate
     row,
     resolution: finalWidth,
     tileability: finalTileability,
+    categoryOverride,
     flags: flags.length > 0 ? flags : undefined,
   });
-  await upsertMetadata(record);
+  await upsertMetadata(record, metadataPath);
   logRow(id, `Done -> ${texturePath}`);
   return record;
 }
